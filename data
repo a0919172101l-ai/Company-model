@@ -507,3 +507,88 @@ https://esg.tsmc.com.tw/file/public/e-AnAdmiredEmployer.pdf?utm_source
 https://www.tsmc.com/static/english/careers/inclusive_workplace.htm
 https://www.tsmc.com/static/english/careers/it_career/index.html
 https://www.tsmc.com/static/abouttsmcaz/index.html
+Supply chain, equipment
+
+
+Problem:
+Taiwan's semiconductor supply chain cannot keep pace with demand and is a bottleneck in the global expansion of AI infrastructure. The question is no longer whether to expand production, but whether the whole supply chain can support the growth.
+
+
+why/cause:
+TSMC's equipment demand forecast for Q1 started at 1x, rose to 1.5x after one quarter, and was raised to 1.9x in July.
+Effects on the company:  
+1. TSMC cannot expand output as fast as customers want.
+2. Fab expansion may be delayed and costs may rise.
+3. Orders may be unfilled or move to competitors, and customer trust may suffer.
+Solution/Backup Plan: 
+1. Share forecasts with suppliers earlier and sign long-term purchase agreements.
+2. Support key suppliers with investment, and qualify backup suppliers and vendors.
+3. Raise output at existing fabs through efficiency and yield improvements.
+4. Expand in phases and across several locations to spread risk.
+
+
+Workers
+
+
+Problem:
+The rapid growth of the semiconductor and AI industries is crowding out other users of domestic electricity, land, basic resources, and high-quality technical talent. Traditional industries face pressure to transform while also competing fiercely on salaries and struggling to retain staff. Taiwanese IC design companies face talent competition and product homogenization, and in new high-growth fields such as AI chip design and edge-computing ASICs they compete directly with international giants.
+
+
+why/cause:
+
+
+1. Fast expansion of the semiconductor and AI industries increases demand for limited domestic resources (electricity, land, basic resources) and for a small pool of skilled engineers.
+2. International companies bid up salaries, creating pressure from global pay competition.
+Effects on the company: 
+1. Higher salary costs and a harder time recruiting and keeping high-level talent.
+2. Turnover of key technical staff can slow projects and weaken the company's technology advantage.
+3. Product homogenization and international competition reduce competitiveness in AI chip design and ASICs.
+4. These risks are described as systemic challenges, so they affect the whole industry, not only one company.
+Solution/Backup Plan: 
+1. Partner with universities such as National Taiwan University, National Tsing Hua University, and National Chiao Tung University to identify and train students early, instead of competing for them after graduation.
+2. Recruiting Overseas Talent: Proactively bring talent back from abroad, rather than passively defending against poaching.
+
+
+Materials
+
+
+Problem:
+The 2026 Middle East crisis is hurting the semiconductor industry in less visible ways, from energy security to the materials used in microfabrication. Two materials are at risk: helium and hydrogen bromide.
+
+
+Why/Cause:
+1. Helium: Qatar produces more than one-third of the world's helium, and its production facilities were damaged in the conflict. Shipping through the Strait of Hormuz is also disrupted. Helium is almost irreplaceable in chip cooling and lithography.
+2. Hydrogen bromide: This is a core material for plasma etching in advanced processes, and its supply crisis is equally severe.
+Both problems come from a single source: a regional conflict that damages production and blocks shipping routes.
+
+
+Effect on the Company:
+1. The global semiconductor industry is on high alert.
+2. If hydrogen bromide supply is cut for more than one quarter, major memory manufacturers, and even some foundry lines, may have to choose between mature processes and high-margin AI chips when allocating capacity.
+3. Production could slow or stop, and revenue from AI chips could be lost.
+Solution/Backup Plan:
+1. Hold larger safety stocks of helium and hydrogen bromide.
+2. Recycle and recover helium in fabs to reduce consumption.
+3. Prepare a priority plan for allocating capacity if shortages continue, for example protecting high-margin AI chip lines first.
+4. Buy from several suppliers in different regions, so the company does not depend on Qatar or on the Strait of Hormuz.
+5. Sign long-term supply contracts and plan alternative shipping routes.
+
+
+Competitive Pressure from Taiwan and the U.S.
+Problem:
+Europe, the U.S., and Japan are actively pushing for self-reliance in the semiconductor supply chain. The U.S. president has even set a goal of reaching a 50% global market share by 2029. Many people worry that Taiwan's semiconductor industry could face a risk of production outflow, meaning production moves out of Taiwan to other countries.
+Why/Cause:
+1. Other major economies want to reduce their dependence on Taiwan's chips and build their own supply chains.
+2. The U.S. has set a clear, ambitious market share target, which adds policy pressure for production to move to the U.S.
+3. Today, 83% of Taiwan's semiconductor production capacity remains in Taiwan, so Taiwan's core position has not yet been shaken. The risk is about the future, not a current loss.
+Effect on the Company:
+1. If production moves abroad, Taiwan could lose part of its core position in the global semiconductor industry.
+2. Companies may face more competition from overseas producers that receive strong government support.
+3. Companies may need to build costly overseas fabs to keep customers, which adds cost and complexity.
+
+
+Solution/Backup Plan: 
+1. Keep the most advanced technology and the largest share of capacity in Taiwan, so the core position stays strong.
+2. Expand overseas in a controlled way, so the company can serve customers in the U.S., Europe, and Japan without moving core capabilities.
+3. Strengthen the domestic ecosystem (suppliers, talent, materials) so that producing in Taiwan remains the best choice.
+4. Build close relationships with key customers and governments, so the company stays a trusted partner as markets seek local supply.
