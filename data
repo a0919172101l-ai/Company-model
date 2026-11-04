@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Company Overview - REPLACE THIS",
+    "category": "Company Overview",
+    "content": "Replace this example with your team's verified company introduction, mission, and background. Do not leave example text in the final investor demo.",
+    "source": "Company profile"
+  },
+  {
+    "title": "Services - REPLACE THIS",
+    "category": "Services",
+    "content": "Replace this example with verified descriptions of the company's actual services, such as AI defect detection or production optimization, only if these are confirmed services.",
+    "source": "Service information"
+  },
+  {
+    "title": "Target Customers - REPLACE THIS",
+    "category": "Customers",
+    "content": "Replace this example with verified information about the company's target customers and industries.",
+    "source": "Customer research"
+  },
+  {
+    "title": "Business Model - REPLACE THIS",
+    "category": "Business Model",
+    "content": "Replace this example with the actual approved revenue model. Do not invent subscription fees, service fees, prices, or financial forecasts.",
+    "source": "Business plan"
+  }
+]
